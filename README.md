@@ -1,69 +1,109 @@
-### 👋 Hey there, I'm Abel Shaji!  
+<div align="center">
 
-Welcome to my GitHub profile! I'm a **Computer Science & AI/ML Enthusiast** from Kerala, India, passionate about **Deep Learning, NLP, Computer Vision, and Software Development**.  
+# Hey, I'm Abel Shaji! 👋
 
----
+### 🧠 AI/ML Builder · 🚀 Hackathon Hacker · 🛠️ Problem Solver from Kerala, India
 
-## 🚀 **What I'm Working On**  
-🔹 **Exploring LLMs**: Understanding fine-tuning techniques and optimizing AI models.  
-🔹 **AI-Powered Projects**: Building intelligent applications that push boundaries.  
-🔹 **Software Development**: Developing innovative apps using **Flutter, Java, and Python**.  
+*I build things that think — from neural nets written by hand to AI tools that solve real-world problems.*
 
----
+[![Email](https://img.shields.io/badge/Email-mail.abelshaji%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail.abelshaji@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel%20Shaji-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-shaji/)
+[![GitHub](https://img.shields.io/badge/GitHub-MagCha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MagCha)
 
-## 🎯 **Notable Projects**  
-🕹️ **Memory Game (Flutter)** – A fun brain teaser to test your memory.  
-🎶 **Python Piano** – Play music directly using Python scripts.  
-☁️ **Weather Forecasting App (Java)** – Get real-time weather updates with a sleek UI.  
-
-> Check out my repositories to see more!  
+</div>
 
 ---
 
-## 🌱 **Learning & Experimenting**  
-💡 **AI & Machine Learning**  
-- Fine-tuning and training LLMs for NLP tasks.  
-- Exploring **Deep Learning, Computer Vision, and Reinforcement Learning**.  
+## 🔥 **Featured Projects**
 
-🖌️ **Creative Coding & Simulations**  
-- Experimenting with AI-generated art & procedural design.  
-- Building physics-based simulations (gravity, motion, etc.).  
+### 🚆 [KMRL Document Overload Automation](https://github.com/MagCha/KMRL-Document-Overload-Automation)
+> **Smart India Hackathon 2025 | AI-Driven Fleet Induction Planning**
 
-🛠️ **Software & Web Development**  
-- Enhancing my **Flutter** & **Full-Stack Development** skills.  
-- Learning **Cloud Computing & Scalable Backend Architectures**.  
+Automates the nightly scheduling of 25 Kochi Metro trainsets using **multi-objective optimization (NSGA-II)** and **Explainable AI (SHAP/LIME)**. Manages 6 interdependent variables — fitness, maintenance, branding, mileage, cleaning, and stabling — to generate transparent, optimized decisions in real time.
+
+`Python` · `pymoo` · `scikit-learn` · `Firebase` · `SHAP/LIME` · `Flask`
 
 ---
 
-## 🛠️ **Tech Stack & Tools**  
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+### 📄 [Puch AI — MCP Document Server](https://github.com/MagCha/MCP-pdf) · [🌐 Live Demo](https://puchai-pdf.vercel.app)
+> **A production-ready Model Context Protocol server for AI-powered document intelligence**
 
-**Frameworks & Libraries:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
+Plugs into AI platforms via the **MCP protocol** to provide smart document processing: summarization, key point extraction, context-aware search, and multi-format support (PDF, DOCX, TXT, ODT and more). Session-managed, token-authenticated, and built for real-world AI integration.
 
-**Databases & Cloud:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+`Python` · `FastAPI/ASGI` · `MCP Protocol` · `Puch AI` · `Vercel`
 
 ---
 
-## 📊 **GitHub Stats**  
-![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagCha&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagCha&layout=compact&theme=tokyonight)  
+### 🧠 [Neural Network from Scratch](https://github.com/MagCha/Neural-Network-from-Scratch)
+> **Deep learning, demystified — no frameworks, just NumPy**
+
+Built a full multi-layer neural network from the ground up — perceptron to backpropagation — with zero black boxes. Trained and evaluated on **Iris** and **MNIST** datasets, complete with loss curves, confusion matrices, and prediction visualizations.
+
+`Python` · `NumPy` · `Jupyter Notebook` · `scikit-learn` · `matplotlib`
 
 ---
 
-## 📫 **Let's Connect!**  
-📧 Email: [mail.abelshaji@gmail.com](mailto:mail.abelshaji@gmail.com)  
-💼 LinkedIn: [Abel Shaji](https://www.linkedin.com/in/abel-shaji/)  
-🌐 GitHub: [MagCha](https://github.com/MagCha)  
+### ⚙️ [Workshop — C++ ICT Internship](https://github.com/MagCha/workshop)
+> **Low-level systems programming from an ICT internship**
 
-> *"The only way to do great work is to love what you do."* — Steve Jobs  
+Hands-on C++ projects exploring systems programming concepts, data structures, and algorithms as part of a structured ICT internship.
 
-Feel free to explore my repositories, contribute, or collaborate on exciting projects! 🚀  
+`C++`
+
+---
+
+## 🌱 **What I'm Into**
+
+| Area | Focus |
+|------|-------|
+| 🤖 **AI / ML** | Building models from scratch, LLM fine-tuning, optimization algorithms |
+| 🛠️ **AI Tooling** | MCP servers, AI-integrated backends, document intelligence |
+| 🏆 **Hackathons** | Smart India Hackathon, rapid prototyping, real-world problem-solving |
+| 💻 **Software Dev** | Python, C++, Flutter, Java, full-stack applications |
+| ☁️ **Cloud & Data** | Firebase, scalable architectures, data pipelines |
+
+---
+
+## 🛠️ **Tech Stack**
+
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**AI / ML:**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Frameworks & Tools:**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagCha&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagCha&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The only way to do great work is to love what you do."* — Steve Jobs
+
+**Explore my repos, open an issue, or just say hi — always happy to collaborate! 🚀**
+
+</div>  
