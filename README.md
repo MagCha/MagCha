@@ -1,14 +1,20 @@
 <div align="center">
 
-# Hey, I'm Abel Shaji! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abel+Shaji!+%F0%9F%91%8B;AI%2FML+Builder+%F0%9F%A7%A0;Hackathon+Hacker+%F0%9F%8F%86;I+build+things+that+think+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🧠 AI/ML Builder · 🚀 Hackathon Hacker · 🛠️ Problem Solver from Kerala, India
+<br/>
 
-*I build things that think — from neural nets written by hand to AI tools that solve real-world problems.*
+[![Profile Views](https://komarev.com/ghpvc/?username=MagCha&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/MagCha)
 
-[![Email](https://img.shields.io/badge/Email-mail.abelshaji%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail.abelshaji@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel%20Shaji-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-shaji/)
-[![GitHub](https://img.shields.io/badge/GitHub-MagCha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MagCha)
+**🧠 AI/ML Builder · 🚀 Hackathon Hacker · 🛠️ Problem Solver from Kerala, India**
+
+*From neural nets built by hand to AI tools deployed in the wild — I make machines think.*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-mail.abelshaji%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.abelshaji@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel%20Shaji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-shaji/)
+[![GitHub](https://img.shields.io/badge/GitHub-MagCha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagCha)
 
 </div>
 
@@ -93,8 +99,16 @@ Hands-on C++ projects exploring systems programming concepts, data structures, a
 
 <div align="center">
 
-![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagCha&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagCha&layout=compact&theme=tokyonight)
+![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagCha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagCha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MagCha&theme=tokyonight&hide_border=true&background=0D1117)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MagCha&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -106,4 +120,4 @@ Hands-on C++ projects exploring systems programming concepts, data structures, a
 
 **Explore my repos, open an issue, or just say hi — always happy to collaborate! 🚀**
 
-</div>  
+</div>
